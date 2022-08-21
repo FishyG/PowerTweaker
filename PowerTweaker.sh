@@ -8,6 +8,7 @@
 # 1: Make the code smaller (mostly cpu governor part)
 # 2: Make the Userspace part of the code
 # 3: AMD GPU tweaking
+# 4: Control fan speed (maybe)
 
 #Colors (use ${COLOR})
 CLEAR='\033[0m'
